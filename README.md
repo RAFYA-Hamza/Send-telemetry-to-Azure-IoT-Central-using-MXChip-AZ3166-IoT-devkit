@@ -10,6 +10,6 @@ Features :
 
 # Part 1 
 
-The folder contains the part that sends the data to the cloud
+The folder *IoTprojectSendDataCloud* contains the part that sends the data to the cloud
 
 # Part 2
