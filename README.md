@@ -7,3 +7,9 @@ Features :
 - Structure and sending the data provided by the sensors using JSON syntax.
 - Sending an alert by Email to intervene and solve the problem using the IoT Central platform.
 - An application (Web server) to remotely control the temperature and humidity in real time using the ESP32 board using the C programming language.
+
+# Part 1 
+
+The folder contains the part that sends the data to the cloud
+
+# Part 2
