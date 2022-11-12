@@ -8,8 +8,10 @@ Features :
 - Sending an alert by Email to intervene and solve the problem using the IoT Central platform.
 - An application (Web server) to remotely control the temperature and humidity in real time using the ESP32 board using the C programming language.
 
-# Part 1 
+# Part 1 : Send telemetry to Azure IoT Central
 
 The folder *IoTprojectSendDataCloud* contains the part that sends the data to the cloud
 
-# Part 2
+# Part 2 : Control real time temperature and humidity using the ESP32 board
+
+The folder *DevProject* contains the code of application (Web server) to remotely control real time temperature and humidity using the ESP32 board
